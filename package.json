@@ -1,0 +1,28 @@
+{
+  "name": "emerald",
+  "version": "0.0.1",
+  "description": "A full framework made to simplify web developers life.",
+  "main": "lib/",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pierrefourgeaud/emerald.git"
+  },
+  "keywords": [
+    "rails",
+    "framework",
+    "express",
+    "web"
+  ],
+  "author": "Pierre Fourgeaud",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pierrefourgeaud/emerald/issues"
+  },
+  "homepage": "https://github.com/pierrefourgeaud/emerald#readme"
+}
